@@ -4,5 +4,5 @@
 ## Installation
 
 ```
-go install github.com/xbbxucx/setgopath@latest
+go install github.com/xucxapp/setgopath@latest
 ```
